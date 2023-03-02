@@ -16,4 +16,5 @@ public class XpathLocator {
 
         //    span[class='hl-item__displayPrice']
     }
+
 }
